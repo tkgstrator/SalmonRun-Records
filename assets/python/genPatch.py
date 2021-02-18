@@ -15,6 +15,10 @@ with open("nsaid.json", mode="r") as f:
         query = reduce(lambda x, y: f"{x}&{y}", list(map(lambda p: urllib.parse.urlencode({"id" : p["nsaid"]}), players)))
     
         res = get_nickname_and_icon(query)
+        # Map使って書き直せるけどまあいいや
+        for r in res:
+            reason = {"banned-reason": list(filter(lambda p: p["nsaid"] == r["nsa_id"], players))[0]["banned-reason"]}
+            r.update(reason) # JSON配列を直接書き換えてくれる、神
         with open("../json/lanplay.json", mode="w") as w:
             w.write(json.dumps(res))
     except:

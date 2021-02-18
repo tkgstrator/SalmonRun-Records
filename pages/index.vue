@@ -63,7 +63,7 @@ export default {
       var td = document.createElement("td")
       var reason = document.createElement("p")
       td.className = "banned_reason"
-      reason.textContent = "Cheating"
+      reason.textContent = player["banned-reason"]
       td.appendChild(reason)
       tr.appendChild(td)
       table.appendChild(tr)

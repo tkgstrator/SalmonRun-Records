@@ -18,5 +18,13 @@
     {
         "nsaid": "91c217317f0592f6",
         "banned-reason": "Cheating"
+    },
+    {
+        "nsaid": "f5a54ee327245a5b",
+        "banned-reason": "Inappropriate nickname"
+    },
+    {
+        "nsaid": "3c0b99d8e1e525a0",
+        "banned-reason": "Inactivity"
     }
 ]
