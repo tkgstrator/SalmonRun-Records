@@ -16,14 +16,14 @@
 </template>
 
 <script>
-import players from "@/assets/json/lanplay.json"
+import nsaids from "@/assets/json/nsaid.json"
 
 const keys = ["thumbnail_url", "nickname", "banned_reason"]
 
 export default {
   data() {
     return {
-      players: players
+      nsaids: nsaids
     }
   },
   async mounted() {
@@ -39,7 +39,20 @@ export default {
       th.textContent = key
       thead.appendChild(th)
     })
-      table.appendChild(thead)
+    table.appendChild(thead)
+    
+    const url = "https://script.google.com/macros/s/AKfycbxivSIg31BywP7O6xzyRH9s0Gc2H9kiNEEOKIthbbGa5XZ9HoLpvpKvWg/exec"
+    const response = await fetch(url, {
+      method: "POST",
+      body: JSON.stringify(nsaids.map(x => x["nsa_id"]))
+    })
+
+    let players = await response.json()
+    players = players.map(x => {
+        x.banned_reason = nsaids.filter(y => y["nsa_id"] == x["nsa_id"])[0]["banned_reason"]
+        return x
+      })
+    console.log(players)
 
     players.forEach(player => {
       var tr = document.createElement("tr")
@@ -63,7 +76,7 @@ export default {
       var td = document.createElement("td")
       var reason = document.createElement("p")
       td.className = "banned_reason"
-      reason.textContent = player["banned-reason"]
+      reason.textContent = player["banned_reason"]
       td.appendChild(reason)
       tr.appendChild(td)
       table.appendChild(tr)
