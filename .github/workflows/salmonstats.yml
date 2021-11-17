@@ -5,7 +5,7 @@ on:
     branches:
       - salmonstats
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -33,7 +33,7 @@ jobs:
           git config --local user.email "nasawake.am@gmail.com"
           git config --local user.name "tkgstrator"
           git config pull.rebase false
-          git pull origin salmonstats
+          git pull
           if (git diff --shortstat | grep '[0-9]'); then \
             git add .; \
             git commit -m "- SalmonStatsの記録のアップデート"; \
