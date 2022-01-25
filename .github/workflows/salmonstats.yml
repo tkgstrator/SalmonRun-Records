@@ -37,5 +37,5 @@ jobs:
           if (git diff --shortstat | grep '[0-9]'); then \
             git add .; \
             git commit -m "- SalmonStatsの記録のアップデート"; \
-            git push origin salmonstats; \
+            git push origin master; \
           fi
