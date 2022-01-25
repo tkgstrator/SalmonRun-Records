@@ -4,6 +4,9 @@ import datetime
 import os
 import copy
 
+class Ignore:
+    def __init__(self, json):
+        self.members = list(map(lambda x: x["nsaid"], json))
 
 class Stats:
     def __init__(self, json, shiftType, stageId, startTime, weaponList):
@@ -12,7 +15,7 @@ class Stats:
         self.shift_type = shiftType
         self.golden_eggs = json["golden_eggs"]
         self.power_eggs = json["power_eggs"]
-        self.members = []
+        self.members = json["members"]
         self.start_time = startTime
         self.weapon_list = weaponList
         self.event_type = json["event_type"]
@@ -23,9 +26,9 @@ class Record:
     def __init__(self, json):
         try:
             self.id = json["id"]
+            self.members = sorted(json["members"])
             self.golden_eggs = json["golden_eggs"]
             self.power_eggs = json["power_eggs"]
-            self.members = sorted(json["members"])
             try:
                 self.water_level = self.getWaterLevel(json["water_id"])
                 self.event_type = self.getEventType(json["event_id"])
@@ -36,7 +39,7 @@ class Record:
             self.water_level = None
             self.event_type = None
         except TypeError:
-            pass
+            return
 
     def getEventType(self, eventType):
         if eventType == 0:
@@ -67,8 +70,9 @@ if __name__ == "__main__":
     with open("src/assets/json/schedule.json", mode="r") as f:
         print(f"Getting latest records from Salmon Stats")
         currentTime = datetime.datetime.now().timestamp()
-        # schedules = list(filter(lambda x: x["start_time"] >= 1568246400 and x["start_time"] < currentTime, json.load(f)))
-        schedules = list(filter(lambda x: x["start_time"] > currentTime - 3600 * 24 * 14 and x["start_time"] < currentTime, json.load(f)))
+        schedules = list(filter(lambda x: x["start_time"] >= 1568246400 and x["start_time"] < currentTime, json.load(f)))
+        # schedules = list(filter(lambda x: x["start_time"] >= 1577188800 and x["start_time"] <= 1577188800, json.load(f)))
+        # schedules = list(filter(lambda x: x["start_time"] > currentTime - 3600 * 24 * 0 and x["start_time"] < currentTime, json.load(f)))
         print(f"Getting {len(schedules)} records")
         scheduleRecords = []
 
@@ -99,16 +103,30 @@ if __name__ == "__main__":
 
             # データがあれば抽出
             if records is not None:
+                # 無視するプレイヤーのリスト
+                ignoreList = Ignore(json.load(open("src/assets/json/ignore.json", mode="r")))
+
                 # 夜のみ記錄
+                records["totals"]["golden_eggs"] = None if len(set(records["totals"]["golden_eggs"]["members"]) & set(ignoreList.members)) != 0 else records["totals"]["golden_eggs"]
+                records["totals"]["power_eggs"] = None if len(set(records["totals"]["power_eggs"]["members"]) & set(ignoreList.members)) != 0 else records["totals"]["power_eggs"]
+                
                 totals = [
-                    Record(records["totals"]["golden_eggs"]).__dict__,
-                    Record(records["totals"]["power_eggs"]).__dict__
+                    None if records["totals"]["golden_eggs"] == None else Record(records["totals"]["golden_eggs"]).__dict__,
+                    None if records["totals"]["power_eggs"] == None else Record(records["totals"]["power_eggs"]).__dict__
                 ]
                 # 昼のみ記錄
+                records["no_night_totals"]["golden_eggs"] = None if len(set(records["no_night_totals"]["golden_eggs"]["members"]) & set(ignoreList.members)) != 0 else records["no_night_totals"]["golden_eggs"]
+                records["no_night_totals"]["power_eggs"] = None if len(set(records["no_night_totals"]["power_eggs"]["members"]) & set(ignoreList.members)) != 0 else records["no_night_totals"]["power_eggs"]
+
                 no_night_totals = [
-                    Record(records["no_night_totals"]["golden_eggs"]).__dict__,
-                    Record(records["no_night_totals"]["power_eggs"]).__dict__
+                    None if records["no_night_totals"]["golden_eggs"] == None else Record(records["no_night_totals"]["golden_eggs"]).__dict__,
+                    None if records["no_night_totals"]["golden_eggs"] == None else Record(records["no_night_totals"]["power_eggs"]).__dict__
                 ]
+
+                # フィルタリング
+                records["wave_records"]["golden_eggs"] = list(filter(lambda x: len(list(set(x["members"]) & set(ignoreList.members))) == 0, records["wave_records"]["golden_eggs"]))
+                records["wave_records"]["power_eggs"] = list(filter(lambda x: len(list(set(x["members"]) & set(ignoreList.members))) == 0, records["wave_records"]["power_eggs"]))
+
                 waves = [
                     list(map(lambda x: Record(x).__dict__, records["wave_records"]["golden_eggs"])),
                     list(map(lambda x: Record(x).__dict__, records["wave_records"]["power_eggs"]))
@@ -147,17 +165,22 @@ if __name__ == "__main__":
     totals = [[], []]
     for record in records:
         with open(f"src/assets/json/records/{record}", mode="r") as f:
-            record = json.load(f)
-            stageId = record["stage_id"]
-            shiftType = record["shift_type"]
-            weaponList = record["weapon_list"]
-            startTime = record["start_time"]
-            # 金イクラWAVE記錄
-            waves[0].extend(list(map(lambda x: Stats(x, shiftType, stageId, startTime, weaponList), record["records"]["golden_eggs"]["waves"])))
-            waves[1].extend(list(map(lambda x: Stats(x, shiftType, stageId, startTime, weaponList), record["records"]["power_eggs"]["waves"])))
-            totals[0].append(Stats(record["records"]["golden_eggs"]["total"], shiftType, stageId, startTime, weaponList))
-            totals[1].append(Stats(record["records"]["golden_eggs"]["no_night_event"], shiftType, stageId, startTime, weaponList))
-
+            try:
+                record = json.load(f)
+                stageId = record["stage_id"]
+                shiftType = record["shift_type"]
+                weaponList = record["weapon_list"]
+                startTime = record["start_time"]
+                # 金イクラWAVE記錄
+                waves[0].extend(list(map(lambda x: Stats(x, shiftType, stageId, startTime, weaponList), record["records"]["golden_eggs"]["waves"])))
+                waves[1].extend(list(map(lambda x: Stats(x, shiftType, stageId, startTime, weaponList), record["records"]["power_eggs"]["waves"])))
+                # 総合記録
+                if record["records"]["golden_eggs"]["total"] is not None:
+                    totals[0].append(Stats(record["records"]["golden_eggs"]["total"], shiftType, stageId, startTime, weaponList))
+                if record["records"]["power_eggs"]["no_night_event"] is not None:
+                    totals[1].append(Stats(record["records"]["golden_eggs"]["no_night_event"], shiftType, stageId, startTime, weaponList))
+            except KeyError:
+                print(record)
     records = {}
     for stage_id in [5000, 5001, 5002, 5003, 5004]:
         shift_records = {}
