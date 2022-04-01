@@ -10969,7 +10969,7 @@
     },
     {
         "end_time": 1644278400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1644148800,
         "weapon_list": [
@@ -10981,7 +10981,7 @@
     },
     {
         "end_time": 1644429600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1644300000,
         "weapon_list": [
@@ -10993,7 +10993,7 @@
     },
     {
         "end_time": 1644580800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1644451200,
         "weapon_list": [
@@ -11005,7 +11005,7 @@
     },
     {
         "end_time": 1644753600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1644602400,
         "weapon_list": [
@@ -11017,7 +11017,7 @@
     },
     {
         "end_time": 1644904800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1644775200,
         "weapon_list": [
@@ -11029,7 +11029,7 @@
     },
     {
         "end_time": 1645056000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1644926400,
         "weapon_list": [
@@ -11041,7 +11041,7 @@
     },
     {
         "end_time": 1645207200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1645077600,
         "weapon_list": [
@@ -11053,7 +11053,7 @@
     },
     {
         "end_time": 1645380000,
-        "rare_weapon_": 20010,
+        "rare_weapon": 20010,
         "stage_id": 5001,
         "start_time": 1645228800,
         "weapon_list": [
@@ -11065,7 +11065,7 @@
     },
     {
         "end_time": 1645531200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1645401600,
         "weapon_list": [
@@ -11077,7 +11077,7 @@
     },
     {
         "end_time": 1645682400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1645552800,
         "weapon_list": [
@@ -11089,7 +11089,7 @@
     },
     {
         "end_time": 1645833600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1645704000,
         "weapon_list": [
@@ -11101,7 +11101,7 @@
     },
     {
         "end_time": 1646006400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1645855200,
         "weapon_list": [
@@ -11113,7 +11113,7 @@
     },
     {
         "end_time": 1646157600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1646028000,
         "weapon_list": [
@@ -11125,7 +11125,7 @@
     },
     {
         "end_time": 1646308800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1646179200,
         "weapon_list": [
@@ -11137,7 +11137,7 @@
     },
     {
         "end_time": 1646460000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1646330400,
         "weapon_list": [
@@ -11149,7 +11149,7 @@
     },
     {
         "end_time": 1646632800,
-        "rare_weapon_": 20030,
+        "rare_weapon": 20030,
         "stage_id": 5003,
         "start_time": 1646481600,
         "weapon_list": [
@@ -11161,7 +11161,7 @@
     },
     {
         "end_time": 1646784000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1646654400,
         "weapon_list": [
@@ -11173,7 +11173,7 @@
     },
     {
         "end_time": 1646935200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1646805600,
         "weapon_list": [
@@ -11185,7 +11185,7 @@
     },
     {
         "end_time": 1647086400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1646956800,
         "weapon_list": [
@@ -11197,7 +11197,7 @@
     },
     {
         "end_time": 1647259200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1647108000,
         "weapon_list": [
@@ -11209,7 +11209,7 @@
     },
     {
         "end_time": 1647410400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1647280800,
         "weapon_list": [
@@ -11221,7 +11221,7 @@
     },
     {
         "end_time": 1647561600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1647432000,
         "weapon_list": [
@@ -11233,7 +11233,7 @@
     },
     {
         "end_time": 1647712800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1647583200,
         "weapon_list": [
@@ -11245,7 +11245,7 @@
     },
     {
         "end_time": 1647885600,
-        "rare_weapon_": 20000,
+        "rare_weapon": 20000,
         "stage_id": 5000,
         "start_time": 1647734400,
         "weapon_list": [
@@ -11257,7 +11257,7 @@
     },
     {
         "end_time": 1648036800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1647907200,
         "weapon_list": [
@@ -11269,7 +11269,7 @@
     },
     {
         "end_time": 1648188000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1648058400,
         "weapon_list": [
@@ -11281,7 +11281,7 @@
     },
     {
         "end_time": 1648360800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1648209600,
         "weapon_list": [
@@ -11293,7 +11293,7 @@
     },
     {
         "end_time": 1648512000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1648382400,
         "weapon_list": [
@@ -11305,7 +11305,7 @@
     },
     {
         "end_time": 1648663200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1648533600,
         "weapon_list": [
@@ -11317,7 +11317,7 @@
     },
     {
         "end_time": 1648814400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1648684800,
         "weapon_list": [
@@ -11329,7 +11329,7 @@
     },
     {
         "end_time": 1648987200,
-        "rare_weapon_": 20010,
+        "rare_weapon": 20010,
         "stage_id": 5002,
         "start_time": 1648836000,
         "weapon_list": [
@@ -11341,7 +11341,7 @@
     },
     {
         "end_time": 1649138400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1649008800,
         "weapon_list": [
@@ -11353,7 +11353,7 @@
     },
     {
         "end_time": 1649289600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1649160000,
         "weapon_list": [
@@ -11365,7 +11365,7 @@
     },
     {
         "end_time": 1649440800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1649311200,
         "weapon_list": [
@@ -11377,7 +11377,7 @@
     },
     {
         "end_time": 1649613600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1649462400,
         "weapon_list": [
@@ -11389,7 +11389,7 @@
     },
     {
         "end_time": 1649764800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1649635200,
         "weapon_list": [
@@ -11401,7 +11401,7 @@
     },
     {
         "end_time": 1649916000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1649786400,
         "weapon_list": [
@@ -11413,7 +11413,7 @@
     },
     {
         "end_time": 1650067200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1649937600,
         "weapon_list": [
@@ -11425,7 +11425,7 @@
     },
     {
         "end_time": 1650240000,
-        "rare_weapon_": 20020,
+        "rare_weapon": 20020,
         "stage_id": 5004,
         "start_time": 1650088800,
         "weapon_list": [
@@ -11437,7 +11437,7 @@
     },
     {
         "end_time": 1650391200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1650261600,
         "weapon_list": [
@@ -11449,7 +11449,7 @@
     },
     {
         "end_time": 1650542400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1650412800,
         "weapon_list": [
@@ -11461,7 +11461,7 @@
     },
     {
         "end_time": 1650693600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1650564000,
         "weapon_list": [
@@ -11473,7 +11473,7 @@
     },
     {
         "end_time": 1650866400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1650715200,
         "weapon_list": [
@@ -11485,7 +11485,7 @@
     },
     {
         "end_time": 1651017600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1650888000,
         "weapon_list": [
@@ -11497,7 +11497,7 @@
     },
     {
         "end_time": 1651168800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1651039200,
         "weapon_list": [
@@ -11509,7 +11509,7 @@
     },
     {
         "end_time": 1651320000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1651190400,
         "weapon_list": [
@@ -11521,7 +11521,7 @@
     },
     {
         "end_time": 1651507200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1651341600,
         "weapon_list": [
@@ -11533,7 +11533,7 @@
     },
     {
         "end_time": 1651644000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1651514400,
         "weapon_list": [
@@ -11545,7 +11545,7 @@
     },
     {
         "end_time": 1651795200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1651665600,
         "weapon_list": [
@@ -11557,7 +11557,7 @@
     },
     {
         "end_time": 1651946400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1651816800,
         "weapon_list": [
@@ -11569,7 +11569,7 @@
     },
     {
         "end_time": 1652119200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1651968000,
         "weapon_list": [
@@ -11581,7 +11581,7 @@
     },
     {
         "end_time": 1652270400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1652140800,
         "weapon_list": [
@@ -11593,7 +11593,7 @@
     },
     {
         "end_time": 1652421600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1652292000,
         "weapon_list": [
@@ -11605,7 +11605,7 @@
     },
     {
         "end_time": 1652594400,
-        "rare_weapon_": 20000,
+        "rare_weapon": 20000,
         "stage_id": 5003,
         "start_time": 1652443200,
         "weapon_list": [
@@ -11617,7 +11617,7 @@
     },
     {
         "end_time": 1652745600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1652616000,
         "weapon_list": [
@@ -11629,7 +11629,7 @@
     },
     {
         "end_time": 1652896800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1652767200,
         "weapon_list": [
@@ -11641,7 +11641,7 @@
     },
     {
         "end_time": 1653048000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1652918400,
         "weapon_list": [
@@ -11653,7 +11653,7 @@
     },
     {
         "end_time": 1653220800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1653069600,
         "weapon_list": [
@@ -11665,7 +11665,7 @@
     },
     {
         "end_time": 1653372000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1653242400,
         "weapon_list": [
@@ -11677,7 +11677,7 @@
     },
     {
         "end_time": 1653523200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1653393600,
         "weapon_list": [
@@ -11689,7 +11689,7 @@
     },
     {
         "end_time": 1653674400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1653544800,
         "weapon_list": [
@@ -11701,7 +11701,7 @@
     },
     {
         "end_time": 1653847200,
-        "rare_weapon_": 20020,
+        "rare_weapon": 20020,
         "stage_id": 5000,
         "start_time": 1653696000,
         "weapon_list": [
@@ -11713,7 +11713,7 @@
     },
     {
         "end_time": 1653998400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1653868800,
         "weapon_list": [
@@ -11725,7 +11725,7 @@
     },
     {
         "end_time": 1654149600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1654020000,
         "weapon_list": [
@@ -11737,7 +11737,7 @@
     },
     {
         "end_time": 1654300800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1654171200,
         "weapon_list": [
@@ -11749,7 +11749,7 @@
     },
     {
         "end_time": 1654473600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1654322400,
         "weapon_list": [
@@ -11761,7 +11761,7 @@
     },
     {
         "end_time": 1654624800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1654495200,
         "weapon_list": [
@@ -11773,7 +11773,7 @@
     },
     {
         "end_time": 1654776000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1654646400,
         "weapon_list": [
@@ -11785,7 +11785,7 @@
     },
     {
         "end_time": 1654927200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1654797600,
         "weapon_list": [
@@ -11797,7 +11797,7 @@
     },
     {
         "end_time": 1655100000,
-        "rare_weapon_": 20030,
+        "rare_weapon": 20030,
         "stage_id": 5002,
         "start_time": 1654948800,
         "weapon_list": [
@@ -11809,7 +11809,7 @@
     },
     {
         "end_time": 1655251200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1655121600,
         "weapon_list": [
@@ -11821,7 +11821,7 @@
     },
     {
         "end_time": 1655402400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1655272800,
         "weapon_list": [
@@ -11833,7 +11833,7 @@
     },
     {
         "end_time": 1655553600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1655424000,
         "weapon_list": [
@@ -11845,7 +11845,7 @@
     },
     {
         "end_time": 1655726400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1655575200,
         "weapon_list": [
@@ -11857,7 +11857,7 @@
     },
     {
         "end_time": 1655877600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1655748000,
         "weapon_list": [
@@ -11869,7 +11869,7 @@
     },
     {
         "end_time": 1656028800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1655899200,
         "weapon_list": [
@@ -11881,7 +11881,7 @@
     },
     {
         "end_time": 1656180000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1656050400,
         "weapon_list": [
@@ -11893,7 +11893,7 @@
     },
     {
         "end_time": 1656352800,
-        "rare_weapon_": 20000,
+        "rare_weapon": 20000,
         "stage_id": 5004,
         "start_time": 1656201600,
         "weapon_list": [
@@ -11905,7 +11905,7 @@
     },
     {
         "end_time": 1656504000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1656374400,
         "weapon_list": [
@@ -11917,7 +11917,7 @@
     },
     {
         "end_time": 1656655200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1656525600,
         "weapon_list": [
@@ -11929,7 +11929,7 @@
     },
     {
         "end_time": 1656828000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1656676800,
         "weapon_list": [
@@ -11941,7 +11941,7 @@
     },
     {
         "end_time": 1656979200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1656849600,
         "weapon_list": [
@@ -11953,7 +11953,7 @@
     },
     {
         "end_time": 1657130400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1657000800,
         "weapon_list": [
@@ -11965,7 +11965,7 @@
     },
     {
         "end_time": 1657281600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1657152000,
         "weapon_list": [
@@ -11977,7 +11977,7 @@
     },
     {
         "end_time": 1657454400,
-        "rare_weapon_": 20010,
+        "rare_weapon": 20010,
         "stage_id": 5001,
         "start_time": 1657303200,
         "weapon_list": [
@@ -11989,7 +11989,7 @@
     },
     {
         "end_time": 1657605600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1657476000,
         "weapon_list": [
@@ -12001,7 +12001,7 @@
     },
     {
         "end_time": 1657756800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1657627200,
         "weapon_list": [
@@ -12013,7 +12013,7 @@
     },
     {
         "end_time": 1657908000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1657778400,
         "weapon_list": [
@@ -12025,7 +12025,7 @@
     },
     {
         "end_time": 1658080800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1657929600,
         "weapon_list": [
@@ -12037,7 +12037,7 @@
     },
     {
         "end_time": 1658232000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1658102400,
         "weapon_list": [
@@ -12049,7 +12049,7 @@
     },
     {
         "end_time": 1658383200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1658253600,
         "weapon_list": [
@@ -12061,7 +12061,7 @@
     },
     {
         "end_time": 1658534400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1658404800,
         "weapon_list": [
@@ -12073,7 +12073,7 @@
     },
     {
         "end_time": 1658721600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1658556000,
         "weapon_list": [
@@ -12085,7 +12085,7 @@
     },
     {
         "end_time": 1658858400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1658728800,
         "weapon_list": [
@@ -12097,7 +12097,7 @@
     },
     {
         "end_time": 1659009600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1658880000,
         "weapon_list": [
@@ -12109,7 +12109,7 @@
     },
     {
         "end_time": 1659160800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1659031200,
         "weapon_list": [
@@ -12121,7 +12121,7 @@
     },
     {
         "end_time": 1659333600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1659182400,
         "weapon_list": [
@@ -12133,7 +12133,7 @@
     },
     {
         "end_time": 1659484800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1659355200,
         "weapon_list": [
@@ -12145,7 +12145,7 @@
     },
     {
         "end_time": 1659636000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1659506400,
         "weapon_list": [
@@ -12157,7 +12157,7 @@
     },
     {
         "end_time": 1659787200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1659657600,
         "weapon_list": [
@@ -12169,7 +12169,7 @@
     },
     {
         "end_time": 1659960000,
-        "rare_weapon_": 20030,
+        "rare_weapon": 20030,
         "stage_id": 5000,
         "start_time": 1659808800,
         "weapon_list": [
@@ -12181,7 +12181,7 @@
     },
     {
         "end_time": 1660111200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1659981600,
         "weapon_list": [
@@ -12193,7 +12193,7 @@
     },
     {
         "end_time": 1660262400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1660132800,
         "weapon_list": [
@@ -12205,7 +12205,7 @@
     },
     {
         "end_time": 1660413600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1660284000,
         "weapon_list": [
@@ -12217,7 +12217,7 @@
     },
     {
         "end_time": 1660586400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1660435200,
         "weapon_list": [
@@ -12229,7 +12229,7 @@
     },
     {
         "end_time": 1660737600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1660608000,
         "weapon_list": [
@@ -12241,7 +12241,7 @@
     },
     {
         "end_time": 1660888800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1660759200,
         "weapon_list": [
@@ -12253,7 +12253,7 @@
     },
     {
         "end_time": 1661061600,
-        "rare_weapon_": 20010,
+        "rare_weapon": 20010,
         "stage_id": 5002,
         "start_time": 1660910400,
         "weapon_list": [
@@ -12265,7 +12265,7 @@
     },
     {
         "end_time": 1661212800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1661083200,
         "weapon_list": [
@@ -12277,7 +12277,7 @@
     },
     {
         "end_time": 1661364000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1661234400,
         "weapon_list": [
@@ -12289,7 +12289,7 @@
     },
     {
         "end_time": 1661515200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1661385600,
         "weapon_list": [
@@ -12301,7 +12301,7 @@
     },
     {
         "end_time": 1661688000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1661536800,
         "weapon_list": [
@@ -12313,7 +12313,7 @@
     },
     {
         "end_time": 1661839200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1661709600,
         "weapon_list": [
@@ -12325,7 +12325,7 @@
     },
     {
         "end_time": 1661990400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1661860800,
         "weapon_list": [
@@ -12337,7 +12337,7 @@
     },
     {
         "end_time": 1662141600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1662012000,
         "weapon_list": [
@@ -12349,7 +12349,7 @@
     },
     {
         "end_time": 1662314400,
-        "rare_weapon_": 20020,
+        "rare_weapon": 20020,
         "stage_id": 5004,
         "start_time": 1662163200,
         "weapon_list": [
@@ -12361,7 +12361,7 @@
     },
     {
         "end_time": 1662465600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1662336000,
         "weapon_list": [
@@ -12373,7 +12373,7 @@
     },
     {
         "end_time": 1662616800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1662487200,
         "weapon_list": [
@@ -12385,7 +12385,7 @@
     },
     {
         "end_time": 1662768000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1662638400,
         "weapon_list": [
@@ -12397,7 +12397,7 @@
     },
     {
         "end_time": 1662940800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1662789600,
         "weapon_list": [
@@ -12409,7 +12409,7 @@
     },
     {
         "end_time": 1663092000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1662962400,
         "weapon_list": [
@@ -12421,7 +12421,7 @@
     },
     {
         "end_time": 1663243200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1663113600,
         "weapon_list": [
@@ -12433,7 +12433,7 @@
     },
     {
         "end_time": 1663394400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1663264800,
         "weapon_list": [
@@ -12445,7 +12445,7 @@
     },
     {
         "end_time": 1663567200,
-        "rare_weapon_": 20030,
+        "rare_weapon": 20030,
         "stage_id": 5001,
         "start_time": 1663416000,
         "weapon_list": [
@@ -12457,7 +12457,7 @@
     },
     {
         "end_time": 1663718400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1663588800,
         "weapon_list": [
@@ -12469,7 +12469,7 @@
     },
     {
         "end_time": 1663869600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1663740000,
         "weapon_list": [
@@ -12481,7 +12481,7 @@
     },
     {
         "end_time": 1664020800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1663891200,
         "weapon_list": [
@@ -12493,7 +12493,7 @@
     },
     {
         "end_time": 1664193600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1664042400,
         "weapon_list": [
@@ -12505,7 +12505,7 @@
     },
     {
         "end_time": 1664344800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1664215200,
         "weapon_list": [
@@ -12517,7 +12517,7 @@
     },
     {
         "end_time": 1664496000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1664366400,
         "weapon_list": [
@@ -12529,7 +12529,7 @@
     },
     {
         "end_time": 1664647200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1664517600,
         "weapon_list": [
@@ -12541,7 +12541,7 @@
     },
     {
         "end_time": 1664820000,
-        "rare_weapon_": 20000,
+        "rare_weapon": 20000,
         "stage_id": 5003,
         "start_time": 1664668800,
         "weapon_list": [
@@ -12553,7 +12553,7 @@
     },
     {
         "end_time": 1664971200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1664841600,
         "weapon_list": [
@@ -12565,7 +12565,7 @@
     },
     {
         "end_time": 1665122400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1664992800,
         "weapon_list": [
@@ -12577,7 +12577,7 @@
     },
     {
         "end_time": 1665295200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1665144000,
         "weapon_list": [
@@ -12589,7 +12589,7 @@
     },
     {
         "end_time": 1665446400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1665316800,
         "weapon_list": [
@@ -12601,7 +12601,7 @@
     },
     {
         "end_time": 1665597600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1665468000,
         "weapon_list": [
@@ -12613,7 +12613,7 @@
     },
     {
         "end_time": 1665748800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1665619200,
         "weapon_list": [
@@ -12625,7 +12625,7 @@
     },
     {
         "end_time": 1665936000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1665770400,
         "weapon_list": [
@@ -12637,7 +12637,7 @@
     },
     {
         "end_time": 1666072800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1665943200,
         "weapon_list": [
@@ -12649,7 +12649,7 @@
     },
     {
         "end_time": 1666224000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1666094400,
         "weapon_list": [
@@ -12661,7 +12661,7 @@
     },
     {
         "end_time": 1666375200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1666245600,
         "weapon_list": [
@@ -12673,7 +12673,7 @@
     },
     {
         "end_time": 1666548000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1666396800,
         "weapon_list": [
@@ -12685,7 +12685,7 @@
     },
     {
         "end_time": 1666699200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1666569600,
         "weapon_list": [
@@ -12697,7 +12697,7 @@
     },
     {
         "end_time": 1666850400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1666720800,
         "weapon_list": [
@@ -12709,7 +12709,7 @@
     },
     {
         "end_time": 1667001600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1666872000,
         "weapon_list": [
@@ -12721,7 +12721,7 @@
     },
     {
         "end_time": 1667174400,
-        "rare_weapon_": 20020,
+        "rare_weapon": 20020,
         "stage_id": 5002,
         "start_time": 1667023200,
         "weapon_list": [
@@ -12733,7 +12733,7 @@
     },
     {
         "end_time": 1667325600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1667196000,
         "weapon_list": [
@@ -12745,7 +12745,7 @@
     },
     {
         "end_time": 1667476800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1667347200,
         "weapon_list": [
@@ -12757,7 +12757,7 @@
     },
     {
         "end_time": 1667628000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1667498400,
         "weapon_list": [
@@ -12769,7 +12769,7 @@
     },
     {
         "end_time": 1667800800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1667649600,
         "weapon_list": [
@@ -12781,7 +12781,7 @@
     },
     {
         "end_time": 1667952000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1667822400,
         "weapon_list": [
@@ -12793,7 +12793,7 @@
     },
     {
         "end_time": 1668103200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1667973600,
         "weapon_list": [
@@ -12805,7 +12805,7 @@
     },
     {
         "end_time": 1668254400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1668124800,
         "weapon_list": [
@@ -12817,7 +12817,7 @@
     },
     {
         "end_time": 1668427200,
-        "rare_weapon_": 20000,
+        "rare_weapon": 20000,
         "stage_id": 5004,
         "start_time": 1668276000,
         "weapon_list": [
@@ -12829,7 +12829,7 @@
     },
     {
         "end_time": 1668578400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1668448800,
         "weapon_list": [
@@ -12841,7 +12841,7 @@
     },
     {
         "end_time": 1668729600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1668600000,
         "weapon_list": [
@@ -12853,7 +12853,7 @@
     },
     {
         "end_time": 1668880800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1668751200,
         "weapon_list": [
@@ -12865,7 +12865,7 @@
     },
     {
         "end_time": 1669053600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1668902400,
         "weapon_list": [
@@ -12877,7 +12877,7 @@
     },
     {
         "end_time": 1669204800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1669075200,
         "weapon_list": [
@@ -12889,7 +12889,7 @@
     },
     {
         "end_time": 1669356000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1669226400,
         "weapon_list": [
@@ -12901,7 +12901,7 @@
     },
     {
         "end_time": 1669528800,
-        "rare_weapon_": 20010,
+        "rare_weapon": 20010,
         "stage_id": 5001,
         "start_time": 1669377600,
         "weapon_list": [
@@ -12913,7 +12913,7 @@
     },
     {
         "end_time": 1669680000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1669550400,
         "weapon_list": [
@@ -12925,7 +12925,7 @@
     },
     {
         "end_time": 1669831200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1669701600,
         "weapon_list": [
@@ -12937,7 +12937,7 @@
     },
     {
         "end_time": 1669982400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1669852800,
         "weapon_list": [
@@ -12949,7 +12949,7 @@
     },
     {
         "end_time": 1670155200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1670004000,
         "weapon_list": [
@@ -12961,7 +12961,7 @@
     },
     {
         "end_time": 1670306400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1670176800,
         "weapon_list": [
@@ -12973,7 +12973,7 @@
     },
     {
         "end_time": 1670457600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1670328000,
         "weapon_list": [
@@ -12985,7 +12985,7 @@
     },
     {
         "end_time": 1670608800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1670479200,
         "weapon_list": [
@@ -12997,7 +12997,7 @@
     },
     {
         "end_time": 1670781600,
-        "rare_weapon_": 20020,
+        "rare_weapon": 20020,
         "stage_id": 5003,
         "start_time": 1670630400,
         "weapon_list": [
@@ -13009,7 +13009,7 @@
     },
     {
         "end_time": 1670932800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1670803200,
         "weapon_list": [
@@ -13021,7 +13021,7 @@
     },
     {
         "end_time": 1671084000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1670954400,
         "weapon_list": [
@@ -13033,7 +13033,7 @@
     },
     {
         "end_time": 1671235200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1671105600,
         "weapon_list": [
@@ -13045,7 +13045,7 @@
     },
     {
         "end_time": 1671408000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1671256800,
         "weapon_list": [
@@ -13057,7 +13057,7 @@
     },
     {
         "end_time": 1671559200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1671429600,
         "weapon_list": [
@@ -13069,7 +13069,7 @@
     },
     {
         "end_time": 1671710400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1671580800,
         "weapon_list": [
@@ -13081,7 +13081,7 @@
     },
     {
         "end_time": 1671861600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1671732000,
         "weapon_list": [
@@ -13093,7 +13093,7 @@
     },
     {
         "end_time": 1672034400,
-        "rare_weapon_": 20030,
+        "rare_weapon": 20030,
         "stage_id": 5000,
         "start_time": 1671883200,
         "weapon_list": [
@@ -13105,7 +13105,7 @@
     },
     {
         "end_time": 1672185600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1672056000,
         "weapon_list": [
@@ -13117,7 +13117,7 @@
     },
     {
         "end_time": 1672336800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1672207200,
         "weapon_list": [
@@ -13129,7 +13129,7 @@
     },
     {
         "end_time": 1672488000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1672358400,
         "weapon_list": [
@@ -13141,7 +13141,7 @@
     },
     {
         "end_time": 1672660800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1672509600,
         "weapon_list": [
@@ -13153,7 +13153,7 @@
     },
     {
         "end_time": 1672812000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1672682400,
         "weapon_list": [
@@ -13165,7 +13165,7 @@
     },
     {
         "end_time": 1672963200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1672833600,
         "weapon_list": [
@@ -13177,7 +13177,7 @@
     },
     {
         "end_time": 1673114400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1672984800,
         "weapon_list": [
@@ -13189,7 +13189,7 @@
     },
     {
         "end_time": 1673301600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1673136000,
         "weapon_list": [
@@ -13201,7 +13201,7 @@
     },
     {
         "end_time": 1673438400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1673308800,
         "weapon_list": [
@@ -13213,7 +13213,7 @@
     },
     {
         "end_time": 1673589600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1673460000,
         "weapon_list": [
@@ -13225,7 +13225,7 @@
     },
     {
         "end_time": 1673762400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1673611200,
         "weapon_list": [
@@ -13237,7 +13237,7 @@
     },
     {
         "end_time": 1673913600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1673784000,
         "weapon_list": [
@@ -13249,7 +13249,7 @@
     },
     {
         "end_time": 1674064800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1673935200,
         "weapon_list": [
@@ -13261,7 +13261,7 @@
     },
     {
         "end_time": 1674216000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1674086400,
         "weapon_list": [
@@ -13273,7 +13273,7 @@
     },
     {
         "end_time": 1674388800,
-        "rare_weapon_": 20010,
+        "rare_weapon": 20010,
         "stage_id": 5004,
         "start_time": 1674237600,
         "weapon_list": [
@@ -13285,7 +13285,7 @@
     },
     {
         "end_time": 1674540000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1674410400,
         "weapon_list": [
@@ -13297,7 +13297,7 @@
     },
     {
         "end_time": 1674691200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1674561600,
         "weapon_list": [
@@ -13309,7 +13309,7 @@
     },
     {
         "end_time": 1674842400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1674712800,
         "weapon_list": [
@@ -13321,7 +13321,7 @@
     },
     {
         "end_time": 1675015200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1674864000,
         "weapon_list": [
@@ -13333,7 +13333,7 @@
     },
     {
         "end_time": 1675166400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1675036800,
         "weapon_list": [
@@ -13345,7 +13345,7 @@
     },
     {
         "end_time": 1675317600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1675188000,
         "weapon_list": [
@@ -13357,7 +13357,7 @@
     },
     {
         "end_time": 1675468800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1675339200,
         "weapon_list": [
@@ -13369,7 +13369,7 @@
     },
     {
         "end_time": 1675641600,
-        "rare_weapon_": 20030,
+        "rare_weapon": 20030,
         "stage_id": 5001,
         "start_time": 1675490400,
         "weapon_list": [
@@ -13381,7 +13381,7 @@
     },
     {
         "end_time": 1675792800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1675663200,
         "weapon_list": [
@@ -13393,7 +13393,7 @@
     },
     {
         "end_time": 1675944000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1675814400,
         "weapon_list": [
@@ -13405,7 +13405,7 @@
     },
     {
         "end_time": 1676095200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1675965600,
         "weapon_list": [
@@ -13417,7 +13417,7 @@
     },
     {
         "end_time": 1676268000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1676116800,
         "weapon_list": [
@@ -13429,7 +13429,7 @@
     },
     {
         "end_time": 1676419200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1676289600,
         "weapon_list": [
@@ -13441,7 +13441,7 @@
     },
     {
         "end_time": 1676570400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1676440800,
         "weapon_list": [
@@ -13453,7 +13453,7 @@
     },
     {
         "end_time": 1676721600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1676592000,
         "weapon_list": [
@@ -13465,7 +13465,7 @@
     },
     {
         "end_time": 1676894400,
-        "rare_weapon_": 20000,
+        "rare_weapon": 20000,
         "stage_id": 5003,
         "start_time": 1676743200,
         "weapon_list": [
@@ -13477,7 +13477,7 @@
     },
     {
         "end_time": 1677045600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1676916000,
         "weapon_list": [
@@ -13489,7 +13489,7 @@
     },
     {
         "end_time": 1677196800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1677067200,
         "weapon_list": [
@@ -13501,7 +13501,7 @@
     },
     {
         "end_time": 1677348000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5000,
         "start_time": 1677218400,
         "weapon_list": [
@@ -13513,7 +13513,7 @@
     },
     {
         "end_time": 1677520800,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1677369600,
         "weapon_list": [
@@ -13525,7 +13525,7 @@
     },
     {
         "end_time": 1677672000,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1677542400,
         "weapon_list": [
@@ -13537,7 +13537,7 @@
     },
     {
         "end_time": 1677823200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1677693600,
         "weapon_list": [
@@ -13549,7 +13549,7 @@
     },
     {
         "end_time": 1677996000,
-        "rare_weapon_": 20010,
+        "rare_weapon": 20010,
         "stage_id": 5000,
         "start_time": 1677844800,
         "weapon_list": [
@@ -13561,7 +13561,7 @@
     },
     {
         "end_time": 1678147200,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5004,
         "start_time": 1678017600,
         "weapon_list": [
@@ -13573,7 +13573,7 @@
     },
     {
         "end_time": 1678298400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5002,
         "start_time": 1678168800,
         "weapon_list": [
@@ -13585,7 +13585,7 @@
     },
     {
         "end_time": 1678449600,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5003,
         "start_time": 1678320000,
         "weapon_list": [
@@ -13597,7 +13597,7 @@
     },
     {
         "end_time": 1678622400,
-        "rare_weapon_": null,
+        "rare_weapon": null,
         "stage_id": 5001,
         "start_time": 1678471200,
         "weapon_list": [
